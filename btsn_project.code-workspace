@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../8th Grade EPS/Web/WebProjects/btsn_project"
+		},
+		{
+			"path": "../../../8th Grade EPS/Web/WebProjects/css_demo"
+		},
+		{
+			"path": "../../../8th Grade EPS/Web/WebProjects/final"
+		},
+		{
+			"path": "../../../8th Grade EPS/Web/WebProjects/html_demo"
+		},
+		{
+			"path": "../../../8th Grade EPS/Web/WebProjects/js_demo"
+		},
+		{
+			"path": "../../../8th Grade EPS/Web/WebProjects/magic_8ball"
+		},
+		{
+			"path": "../../../8th Grade EPS/Web/WebProjects/midterm"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js_demo"
+	}
+}
